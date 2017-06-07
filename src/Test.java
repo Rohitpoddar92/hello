@@ -1,6 +1,4 @@
 
 public class Test {
-
-	//Hello
-	
+	//Sysout
 }
